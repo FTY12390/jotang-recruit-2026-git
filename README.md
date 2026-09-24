@@ -10,4 +10,3 @@
 ## 关于我
 
 GitHub：[@FTY12390](https://github.com/FTY12390)
-123456
